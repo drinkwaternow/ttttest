@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c33b7808bbb06a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中文/我是中文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "456/456456.md",
+                "file": "中文/我是中文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "456/456456.md",
+                "file": "中文/我是中文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "456/456456.md"
+                "file": "中文/我是中文.md"
               }
             }
           }
@@ -191,8 +203,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "859f41a0778105cc",
+  "active": "0c33b7808bbb06a2",
   "lastOpenFiles": [
+    "456/456456.md",
     "123/123123.md",
     "456.md",
     "123.md"
